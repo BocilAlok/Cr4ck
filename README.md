@@ -34,7 +34,7 @@
 <i> <b>  Dan jika proses sampai 100 Sarankan mode pesawat</b> </i>
 
            
-<i> <b>  Ingfo Cek Opsi CP Erorr!!! :(</b> <i>
+          <i> <b>  Ingfo Cek Opsi CP Erorr!!! :(</b> <i>
 </p>
 
 
