@@ -33,12 +33,17 @@
 <i> <b>  Gunakan Method mobile</b> </i>
 <i> <b>  Dan jika proses sampai 100 Sarankan mode pesawat</b> </i>
 
-           
-          <i> <b>  Ingfo Cek Opsi CP Erorr!!! :(</b> <i>
+           <i> <b>  Ingfo Cek Opsi CP Erorr!!! :(</b> <i>
 </p>
 
 
-  <p align="center">
+
+
+
+           
+
+
+<p align="center">
 <i> <b>   JANGAN LUPA FOLLOW GITHUB SAYA DAN KASIH BINTANG NYA :) </b> </i>
 </p
    
