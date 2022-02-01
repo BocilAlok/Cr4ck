@@ -26,12 +26,13 @@
             ( python2 Cr4ck.py
             
 <p align="center">
-<i> <b>  Informasi</b> </i>
+<i> <b>  informasi</b> </i>
 </p>
 <p align="center">
 <i> <b>  Di sarankan jika crack</b> </i>
 <i> <b>  Gunakan Method mobile</b> </i>
 <i> <b>  Dan jika proses sampai 100 Sarankan mode pesawat</b> </i>
+<i> <b>  Ingfo Cek Opsi CP Erorr!!! :(</b> <i>
 </p>
 
 
