@@ -32,9 +32,17 @@
 <i> <b>  Di sarankan jika crack</b> </i>
 <i> <b>  Gunakan Method mobile</b> </i>
 <i> <b>  Dan jika proses sampai 100 Sarankan mode pesawat</b> </i>
+</p
 
-<i> <b>               GANTI USER AGENT DULU SEBELUM KREK</b> <i>
-</p>
+       
+           
+
+<p align="center">
+
+<i> <b>  MOHON GANTI USER AGENT SEBELUM KREK AGAR TIDAK ERROR!!!</b> </i>
+</p
+
+
 
 
 
