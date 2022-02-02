@@ -6,8 +6,8 @@
 </p>
 <p align="center">
 <img src="Screenshot_2022-02-02-12-22-48-90_84d3000e3f4017145260f7618db1d683.jpg">
-<img src="Screenshot_2022-02-02-12-23-18-21_84d3000e3f4017145260f7618db1d683.jpg">
 </p>
+
 
 <p align="center">
 <i> <b>  Install Tools</b> </i>
