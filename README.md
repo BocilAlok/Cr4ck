@@ -21,10 +21,10 @@
             ( pip2 install requests
             ( pip2 install futures
             ( pip2 install bs4
-            ( git clone https://github.com/Jeeck-XN/Lite
-            ( cd Lite
+            ( git clone https://github.com/BocilAlok/Cr4ck
+            ( cd Cr4ck
             ( git pull
-            ( python2 Lite.py
+            ( python2 Cr4ck.py
             
 <p align="center">
 <i> <b>  Informasi</b> </i>
@@ -42,7 +42,7 @@
 
 
   <p align="center">
-<i> <b>   JANGAN LUPA FOLLOW GITHUB SAYA DAN KASIH BINTANG NYA :) </b> </i>
+<i> <b>   JANGAN LUPA FOLLOW GITHUB SAYA DAN KASIH BINTANG NYA :) </b> </i> 
 </p
    
 
