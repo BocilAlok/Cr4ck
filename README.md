@@ -30,7 +30,7 @@
 </p>
 <p align="center">
 <i> <b>  Di sarankan jika crack</b> </i>
-<i> <b>  Gunakan Method Mbasic/b> </i>
+<i> <b>  Gunakan Method Mbasic</b> </i>
 <i> <b>  Dan jika proses sampai 500 Sarankan mode pesawat</b> </i>
 </p>
 
